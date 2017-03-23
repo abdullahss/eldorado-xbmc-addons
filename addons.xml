@@ -95,7 +95,7 @@ Watch all your favorite TV Shows and Movies streamed on constant repeat 24/7 fro
 
 <addon id="plugin.video.trailer.addict"
        name="Trailer Addict"
-       version="2.8.0"
+       version="2.9.0"
        provider-name="stacked, Eldorado">
   <requires>
     <import addon="xbmc.python" version="2.14.0"/>
